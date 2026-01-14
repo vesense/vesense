@@ -8,4 +8,4 @@
 * Currrently I'm focusing on LLM/Agent/Physical AI and Lakehouse.
 * Feel free to reach me by:
   * email: xinwang@apache.org
-  * X: @_xinwang
+  * X: [_xinwang](https://x.com/_xinwang)
