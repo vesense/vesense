@@ -1,18 +1,11 @@
 ## Hi there 👋
 
-<!--
-**vesense/vesense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🏷 tags: entrepreneurship, big data, streaming / real-time computing, open source / apache, LLM application
+* 2022 ~ now I'm the realtime data & platform team leader at ant group.
+* 2015 ~ now I'm the apache pmc member/commiter/contributor of lots of asf projects.
+* 2017 ~ 2022 I'm the domestic & export logistics data intelligence team leader at alibaba group.
+* 2015 ~ 2017 I'm the cofounder of a big data startup.
+* 2013 ~ 2015 I'm a big data developer.
+* Currrently I'm focusing on LLM/Agent and Lakehouse.
+* Feel free to reach me by:
+  * email: xinwang@apache.org
+  * X: @_xinwang
